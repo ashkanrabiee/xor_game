@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        //start project and add id from activity_main.xml here
         var resbtn = findViewById<Button>(R.id.resbtn) as Button
         var bu1 = findViewById<Button>(R.id.bu1) as Button
         var bu2 = findViewById<Button>(R.id.bu2) as Button
