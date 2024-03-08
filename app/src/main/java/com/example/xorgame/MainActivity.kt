@@ -309,3 +309,5 @@ class MainActivity : AppCompatActivity() {
 
     }
 }
+
+// tanks for using this project :)
