@@ -27,3 +27,24 @@ Basic 2D Array for Grid Representation
 
 # UI
 Console-based output (can be improved with GUI framework like JavaFX or Android later)
+
+
+📸 Screenshot
+
+![image](https://github.com/ashkanrabiee/xor_game/assets/93576288/c400bb24-4f94-4a94-8bdf-40a0116db16b)
+
+🧪 How to Run the Game
+Clone the repository and follow these steps to play the game:
+
+# Clone the repository
+```bash
+$ git clone https://github.com/your-username/xor-game.git
+$ cd xor-game
+```
+# Build and run the game
+```bash
+$ kotlinc Main.kt -include-runtime -d xor-game.jar
+```
+```bash
+$ java -jar xor-game.jar
+```
