@@ -16,6 +16,10 @@ This game includes a variety of features and is an excellent starting point for 
 
 ---
 
+📸 Screenshot
+
+![image](https://github.com/ashkanrabiee/xor_game/assets/93576288/c400bb24-4f94-4a94-8bdf-40a0116db16b)
+
 ## 🛠 Technologies Used
 
 ```bash
@@ -29,9 +33,7 @@ Basic 2D Array for Grid Representation
 Console-based output (can be improved with GUI framework like JavaFX or Android later)
 
 
-📸 Screenshot
 
-![image](https://github.com/ashkanrabiee/xor_game/assets/93576288/c400bb24-4f94-4a94-8bdf-40a0116db16b)
 
 🧪 How to Run the Game
 Clone the repository and follow these steps to play the game:
